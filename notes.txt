@@ -1,0 +1,1 @@
+docker run -p 8080:8080 -p 5000:5000 -v C:\Repository\DevOpsApprentice\CI-CD:/var/jenkins_home jenkins/jenkins
