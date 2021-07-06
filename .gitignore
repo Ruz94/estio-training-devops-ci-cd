@@ -10,3 +10,4 @@
 org.jenkinsci.plugins.workflow.flow.FlowExecutionList.xml
 queue.xml
 /SampleApp_Linux.zip
+/SampleApp_Linux
