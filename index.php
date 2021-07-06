@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "Testing ebs and codepipeline!";
 ?>
 
 <section class="videoWrapper">
